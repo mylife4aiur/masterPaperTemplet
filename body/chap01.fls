@@ -1,0 +1,6 @@
+PWD /Users/xuming/Desktop/大论文latex模版/body
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt
+INPUT chap01.tex
+OUTPUT chap01.log

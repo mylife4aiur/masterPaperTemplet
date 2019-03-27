@@ -1,0 +1,14 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "chap01.xdv" "chap01.pdf" "chap01" 0
+  "chap01.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "chap01.pdf"
+["xelatex"] 1553584468 "chap01.tex" "chap01.xdv" "chap01" 1553584469
+  "/usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1522066949 33362 cf75436e19743e94a92a6b1b9183c434 ""
+  "/usr/local/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt" 1553500230 3731947 4d52a32ce21b7feaed121fb6810e5f73 ""
+  "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
+  "chap01.aux" 1553581894 3275 9f8c9d5ba65a4ba9bfef97c2422080ef ""
+  "chap01.tex" 1553581777 5714 fd5d28798f28d1533e3c53c66de85044 ""
+  (generated)
+  "chap01.xdv"
+  "chap01.log"

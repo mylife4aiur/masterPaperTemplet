@@ -1,0 +1,41 @@
+\contentsline {chapter}{摘　　要}{I}{chapter*.1}
+\contentsline {chapter}{Abstract}{III}{chapter*.2}
+\contentsline {chapter}{引　　言}{1}{chapter*.4}
+\contentsline {section}{\numberline {0.1}Windows操作系统}{1}{section.0.1}
+\contentsline {subsection}{\numberline {0.1.1}编译运行}{1}{subsection.0.1.1}
+\contentsline {section}{\numberline {0.2}Linux操作系统(以Ubuntu为例)}{1}{section.0.2}
+\contentsline {subsection}{\numberline {0.2.1}编译运行}{3}{subsection.0.2.1}
+\contentsline {section}{\numberline {0.3}XeTeX简介}{3}{section.0.3}
+\contentsline {subsection}{\numberline {0.3.1}历史}{3}{subsection.0.3.1}
+\contentsline {section}{\numberline {0.4}引言内容要求}{4}{section.0.4}
+\contentsline {chapter}{\numberline {1}数据介绍与数据分析}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}数据集一特征提取与特征分析}{5}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}数据集一的描述}{5}{subsection.1.1.1}
+\contentsline {section}{\numberline {1.2}数据集二特征提取与特征分析}{6}{section.1.2}
+\contentsline {section}{\numberline {1.3}正文}{7}{section.1.3}
+\contentsline {chapter}{\numberline {2}列表，三线表，插图，参考文献}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}列表}{9}{section.2.1}
+\contentsline {section}{\numberline {2.2}表}{10}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}三线表}{10}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}表格的列按小数点对齐}{12}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}多列三线表}{13}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}多行三线表}{14}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}宽度控制}{15}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}斜线表头}{16}{subsection.2.2.6}
+\contentsline {section}{\numberline {2.3}图}{18}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}双图并列}{19}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}两子图并列}{21}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}数学}{22}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}math}{22}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}傅立叶变换}{22}{subsection.2.4.2}
+\contentsline {section}{\numberline {2.5}参考文献}{24}{section.2.5}
+\contentsline {chapter}{\numberline {3}注意事项}{26}{chapter.3}
+\contentsline {section}{\numberline {3.1}存在的问题}{26}{section.3.1}
+\contentsline {section}{\numberline {3.2}将来的工作}{26}{section.3.2}
+\contentsline {chapter}{结　　论}{27}{chapter*.5}
+\contentsline {chapter}{参考文献}{29}{chapter*.6}
+\contentsline {chapter}{附录\nobreakspace {}A　附录内容名称}{31}{appendix*.7}
+\contentsline {chapter}{攻读硕士学位期间发表学术论文情况}{33}{appendix*.8}
+\contentsline {chapter}{致　　谢}{35}{appendix*.9}
+\contentsline {chapter}{大连理工大学学位论文版权使用授权书}{37}{appendix*.10}
+\contentsfinish 
